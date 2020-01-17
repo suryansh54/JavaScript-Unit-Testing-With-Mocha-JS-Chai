@@ -1,0 +1,23 @@
+{
+  "name": "javascript-unit-testing-with-mocha-js-chai",
+  "version": "1.0.0",
+  "description": "```html\r npm install mocha chai --save-dev\r ```",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha || true"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/suryansh54/JavaScript-Unit-Testing-With-Mocha-JS-Chai.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/suryansh54/JavaScript-Unit-Testing-With-Mocha-JS-Chai/issues"
+  },
+  "homepage": "https://github.com/suryansh54/JavaScript-Unit-Testing-With-Mocha-JS-Chai#readme",
+  "devDependencies": {
+    "chai": "^4.2.0",
+    "mocha": "^7.0.0"
+  }
+}
