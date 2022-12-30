@@ -18,6 +18,6 @@
   "homepage": "https://github.com/suryansh54/JavaScript-Unit-Testing-With-Mocha-JS-Chai#readme",
   "devDependencies": {
     "chai": "^4.2.0",
-    "mocha": "^7.0.0"
+    "mocha": "^10.2.0"
   }
 }
